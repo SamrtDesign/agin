@@ -531,7 +531,8 @@ h6 {
 /*=====| 5. About Us  |=====*/
 .colored-section {
   background: #F4F6FF;
-  padding: 100px 0; }
+  padding: 100px 0;
+  overflow: hidden; }
 
 .about-us .about-img img {
   width: 705px;
@@ -1494,7 +1495,8 @@ h6 {
     margin-left: -40px; } }
 @media only screen and (max-width: 1366px) {
   .white-section {
-    padding: 100px 0; }
+    padding: 100px 0;
+    overflow: hidden; }
 
   .why-us.colored-section {
     padding: 60px 0; }
